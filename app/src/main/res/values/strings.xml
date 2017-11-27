@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ProyectoViveDigital</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">ProyectoViveDigital</string>
+    <string name="title_btn_list">Listar</string>
+    <string name="title_btn_map">Mapa</string>
+    <string name="show_more">Ver Más</string>
+    <string name="departamento">Departamento</string>
+    <string name="direccion">Dirección</string>
+    <string name="ejecutor">Ejecutor</string>
+    <string name="fue_donado">El punto fue donado</string>
+    <string name="escritura_de_donaci_n">Escritura Donación</string>
+    <string name="estado_actual_de_la_carpeta">Estado de la Carpeta</string>
+    <string name="fase">Fase</string>
+    <string name="fecha_de_convenio">Fecha de Covenio</string>
+    <string name="horario_atenci_n_del_pvd">Horario de Atención</string>
+    <string name="integrador_de_servicio">Integrador de Servicio</string>
+    <string name="municipio">Municipio</string>
+    <string name="tipo_de_beneficiario">Tipo Beneficiario</string>
+    <string name="tipo_ejecutor">Tipo Ejecutor</string>
+    <string name="tipologia">Tipologia</string>
+    <string name="coordenadas">Coordenadas</string>
+    <string name="introduction">\"Vive Digital, es el plan de tecnología para los próximos cuatro años en Colombia, que busca que el país dé un gran salto tecnológico mediante la masificación de Internet y el desarrollo del ecosistema digital nacional. A continuacion se muestra la localizacion de algunos puntos de vive digital en el municipio de Pasto(Nariño)\"</string>
+    <string name="texto_hola">Hola!</string>
+    <string name="texto1">En esta aplicacion podras saber cuales son los puntos localizados del plan del gobierno llamado vive digital que existen en Pasto</string>
+    <string name="texto2">Para comenzar, haz clic en el boton empezar</string>
+    <string name="boton_empezar">Empezar</string>
+    <string name="texto_autor">Autora: Ana Gabriela Muñoz Cabrera</string>
+    <string name="boton_salir">Salir</string>
+    <string name="frase1">El éxito no tiene una fórmula secreta. Se consigue trabajando duro y aprendiendo de los errores.</string>
+</resources>

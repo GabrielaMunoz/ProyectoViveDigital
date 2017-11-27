@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="texto_hola">Hello!</string>
+    <string name="texto1">" In this application you will be able to know which are the localized points of the government plan called digital live that exist in Pasto"</string>
+    <string name="texto2">To get started, click the start button</string>
+    <string name="boton_empezar">Start</string>
+    <string name="introduction">\"Live Digital, is the technology plan for the next four years in Colombia, which seeks the country to take a great technological leap through the massification of the Internet and the development of the national digital ecosystem. lives digitally in the municipality of Pasto (Nariño) \"</string>
+    <string name="app_name">" LiveDigital Project"</string>
+    <string name="coordenadas">coordinates</string>
+    <string name="departamento">Department</string>
+    <string name="direccion">Address</string>
+    <string name="ejecutor">Executor</string>
+    <string name="escritura_de_donaci_n">Writing Donation</string>
+    <string name="estado_actual_de_la_carpeta">Status of the Folder</string>
+    <string name="fase">Phase</string>
+    <string name="fecha_de_convenio">" Date of Covenio"</string>
+    <string name="fue_donado">Success does not have a secret formula. It is achieved by working hard and learning from mistakes.</string>
+    <string name="horario_atenci_n_del_pvd">" Hours of Service"</string>
+    <string name="integrador_de_servicio">" Service Integrator"</string>
+    <string name="municipio">" Municipality"</string>
+    <string name="show_more">" See more"</string>
+    <string name="tipo_de_beneficiario">" Beneficiary type"</string>
+    <string name="tipo_ejecutor">" Executor Type"</string>
+    <string name="tipologia">" Typology"</string>
+    <string name="title_activity_splash_screen">\" LiveDigital Project\"</string>
+    <string name="title_btn_list">" To List"</string>
+    <string name="title_btn_map">Map</string>
+    <string name="texto_autor">Author: Ana Gabriela Muñoz Cabrera</string>
+    <string name="boton_salir">Exit</string>
+    <string name="frase1">" Success does not have a secret formula. It is achieved by working hard and learning from mistakes."</string>
+</resources>

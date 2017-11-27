@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    android:orientation="vertical"
+    android:paddingBottom="10dp"
+    android:weightSum="1"
+    tools:context="com.safe.sena.proyectovivedigital.SplashScreen">
+
+
+        <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:layout_height="217dp"
+        android:src="@drawable/map1"
+
+        />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="284dp"
+            android:padding="50dp"
+            android:src="@drawable/vive_digital" />
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:max="100"
+            android:progress="1"
+            android:progressBackgroundTint="@color/colorPrimaryDark"
+            android:progressTint="@color/colorPrimary"
+            android:secondaryProgressTintMode="src_in" />
+
+</LinearLayout>
